@@ -1,27 +1,17 @@
+**Gagarian** 
+============
 Members
-=========================
+============
 | Name | Contact | Email  | Role | 
 | ----------- | ----------- | ----------- | ----------- |
 | Matewos Mengistu | +251911468779 | mengistusima@gmail.com | Backend |
 | Robera Workneh | +251942547025 | roberaworknehrobwork@gmail.com | Backend |
 | Natnael Lemma | +251973038584 | natilemma5@gmail.com | Frontend |
 | Eyouel Tensae | +251938069240 | teyouale@gmail.com | Frontend |
-| Rahel Yitbarek | +251985241580 | ririy | Business Management |
-| Frekidu Ketemaw | +251920623853 | | Business Management |
-| Tensae Birhan | Text | | Marketing |
-| Abenezer Kebede | Text | | Mobile app |
-
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-**Gagarian**
-
+| Rahel Yitbarek | +251985241580 |  | Business Management |
+| Frekidu Ketemaw | +251920623853 | frekidus29@gmail.com | Business Management |
+| Tensae Birhan |  | | Marketing |
+| Abenezer Kebede |  | | Mobile app |
 **Address:**
 
 
@@ -46,7 +36,7 @@ The opinion expressed are in good faith and while every care has been taken in p
 
 Gagarian company, its subsidiaries, the managers, employees and agents cannot be held liable for the use of and reliance of the opinions, estimates, forecasts and findings in these documents. 
 
-**SPONSERS**
+**SPONSORS**
 
 
 
