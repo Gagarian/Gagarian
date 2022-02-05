@@ -45,7 +45,7 @@ Members
 | Eyouel Tensae | +251938069240 | teyouale@gmail.com | Frontend |
 | Rahel Yitbarek | +251985241580 | ryitbarek448@gmail.com  | Business Management (ADMIN) |
 | Frekidu Ketemaw | +251920623853 | frekidus29@gmail.com | Business Management |
-| Tensae Birhan | +251947301844 | | Marketing |
+| Tensae Birhan | +251947301844 |tinsaebirhan7@gmail.com | Marketing |
 | Abenezer Kebede | +251963045049 | Abeni5049@gmail.com | Mobile app |
 
 <p style="text-align: right">
