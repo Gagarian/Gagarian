@@ -1,5 +1,40 @@
-**Gagarian** 
-============
+<h1 align="center" >
+🌐 Gagarian Frontend
+</h1>
+
+<p align="center">
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=NATILEMMA.gagarian_frontend)
+   <a href="https://travis-ci.com/amazingandyyy/mern">
+      <img src="https://travis-ci.com/amazingandyyy/mern.svg?branch=master" />
+   </a>
+   <a href="https://github.com/amazingandyyy/mern/blob/master/LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+   </a>
+   <a href="https://circleci.com/gh/amazingandyyy/mern">
+      <img src="https://circleci.com/gh/amazingandyyy/mern.svg?style=svg" />
+   </a>
+</p>
+
+
+Gagarian is a united bakers company. The company sells both locally and outside Ethiopia . You can get Gagarian Injera from our local store or you can easily order in our site and get it delivered where you are. We promise to deliver quality Injera right from the hands of a mother.Currently, we are available in Addis Ababa and stores in U.S.A
+Out of the box, the site uses completely static data coming from a provider at providers/inventoryProvider.js. You can update this provider to fetch data from any real API by changing the call in the getInventory function.
+
+- [Website](https://gagarian.vercel.app/)
+- [FrontendCode](https://github.com/Gagarian/gagarian_frontend)
+- [BackendCode](https://github.com/Gagarian/gagarain_backend)
+- [MobileCode](https://github.com/Gagarian/gagarian_mobile)
+- [BusinessProposal](https://docs.google.com/document/d/1-MbfkP9dmB-BJB0Utwz1cjRxdFl1u5xbybzvwqCsG3o/edit?usp=sharing)
+
+
+**Contact us**
+For less urgent matters, send a message to:
+> Rahel Yitbarek    
+> Manager    
+> +251985241580     
+> ryitbarek448@gmail.com       
+> Addis Ababa,Ethiopia
+
 Members
 ============
 | Name | Contact | Email  | Role | 
@@ -8,21 +43,10 @@ Members
 | Robera Workneh | +251942547025 | roberaworknehrobwork@gmail.com | Backend |
 | Natnael Lemma | +251973038584 | natilemma5@gmail.com | Frontend |
 | Eyouel Tensae | +251938069240 | teyouale@gmail.com | Frontend |
-| Rahel Yitbarek | +251985241580 |  | Business Management |
+| Rahel Yitbarek | +251985241580 | ryitbarek448@gmail.com  | Business Management (ADMIN) |
 | Frekidu Ketemaw | +251920623853 | frekidus29@gmail.com | Business Management |
-| Tensae Birhan |  | | Marketing |
-| Abenezer Kebede |  | | Mobile app |
-**Address:**
-
-
-            **Tel:  	09-47-30-18-44**
-
-
-            **09-85-24-15-80	**
-
-**			E-mail: gagarian[@gmail.com](mailto:paerteb@gmail.com)**
-
-**			Telegram Channel: @Gagarian**
+| Tensae Birhan | +251947301844 | | Marketing |
+| Abenezer Kebede | +251963045049 | Abeni5049@gmail.com | Mobile app |
 
 <p style="text-align: right">
 <strong>January 2022</strong></p>
